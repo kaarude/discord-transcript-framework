@@ -1,0 +1,11 @@
+# Exported transcripts
+transcripts/
+out/
+
+# Build output
+/export
+*.zip
+*.exe
+
+# OS noise
+.DS_Store
